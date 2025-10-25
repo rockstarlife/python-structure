@@ -14,7 +14,7 @@ eq = a == b
 print(f"{a} = {b} is {eq}")
 
 ne = a != b
-print(f"{a} != {b} is {eq}")
+print(f"{a} != {b} is {ne}")
 
 gt = a > b
 print(f"{a} > {b} is {gt}")

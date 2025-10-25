@@ -25,11 +25,10 @@ div = a / b
 print(f"div = {div}")
 
 floor = a // b
-print(f"floor = {floor}")
+print(f"floor = {floor}")  # 1
 
 mod = a % b
-print(f"mod = {mod}")
+print(f"mod = {mod}")  # 1
 
 pow = a**b
-print(f"pow = {pow}")
-
+print(f"pow = {pow}")  # 9

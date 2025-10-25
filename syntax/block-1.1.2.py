@@ -3,7 +3,7 @@
 """int()"""
 
 bug_1 = int("5 and hellow world")
-print(bug_int_but_str)
+print(bug_1)
 
 """float()"""
 bug_2 = float("hellow 2")
