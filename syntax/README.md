@@ -108,3 +108,9 @@ not True = False
 > elif для нечётных >5 (print "большой нечёт"), else pass. 
 > Добавь while для счёта до 0 (шаг -1, с break на -5).
 > Переход: Потоки освоены? К Блоку 4.
+
+| Files | For what? |
+|--------- | ----------- |
+| block-1.3.1.1.py | if, elif, else. С bool. |
+| block-1.3.1.2.py | if, elif, else. С числами.|
+| block-1.3.2.1.py | for |

@@ -1,0 +1,26 @@
+# a = 1
+# for i in range(10):
+#     print(a)
+#     a += 1
+#
+# print()
+#
+# b = 10
+# for i in range(10):
+#     print(b)
+#     b -= 1
+
+print()
+c = 0
+for i in range(120):
+    if c <= 10:
+        c = c + 0.1
+        print(f"c = {c}")
+    else:
+        print("done")
+    print(f"i = {i}")
+"""
+Это ошибка точности чисел с плавающей точкой (floating-point arithmetic).
+0.1 в двоичной системе - бесконечная дробь, поэтому накапливаются погрешности при многократном сложении.
+Используй round(c, 1) или decimal.Decimal для точности.
+"""
