@@ -11,5 +11,5 @@ if r > 0:
     print(f"Area of your circle = {s_circle}")
 else:
     print("Your circle suck!!!")
-    print(f"What you fucking mean when you say R = {r}?")
-    print("Don't try to trick me you snicky man")
+    print(f"What you fucking mean when you say R = {r}?!")
+    print("Don't try to trick me you snicky man!")
