@@ -114,3 +114,9 @@ not True = False
 | block-1.3.1.1.py | if, elif, else. С bool. |
 | block-1.3.1.2.py | if, elif, else. С числами.|
 | block-1.3.2.1.py | for |
+| block-1.3.2.2.py| |
+| block-1.3.2.3.py | while |
+|block-1.3.2.4.py | |
+
+
+
