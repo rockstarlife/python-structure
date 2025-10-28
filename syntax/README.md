@@ -103,7 +103,7 @@ not True = False
 2. Циклы: for (по последовательностям), while (пока условие).
 3. Контроль: break (выход), continue (пропуск), pass (пустая руна).
 4. Вложенность: условия в циклах, циклы в условиях.
-> [!NOTE]
+> [!NOTE] Task
 > Задание: Напиши цикл for от 1 до 10, с if для чётных (print "чёт"),
 > elif для нечётных >5 (print "большой нечёт"), else pass. 
 > Добавь while для счёта до 0 (шаг -1, с break на -5).
@@ -117,6 +117,10 @@ not True = False
 | block-1.3.2.2.py| |
 | block-1.3.2.3.py | while |
 |block-1.3.2.4.py | |
+|block-1.3.3.1.py | break|
+|block-1.3.3.2.py | continue |
+|block-1.3.3.3.py | pass |
+
 
 
 

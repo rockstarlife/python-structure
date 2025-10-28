@@ -12,6 +12,6 @@ for i in range(r + 1):
         z = x // 10 * 10
         y = x - z
         print(f"when i = {i}")
-        print(f"x = {x}")
-        print(f"z = {z}")
-        print(f"y = {y}")
+        print(f"наш результат x = {x}")
+        print(f"идиальное число z = {z}")
+        print(f"покгршность y = {y}")
